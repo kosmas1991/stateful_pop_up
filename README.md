@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # stateful_pop_up
 
 A new Flutter application.
